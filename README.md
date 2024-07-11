@@ -2,7 +2,7 @@
 
 #### I'm a forward-thinking software engineer hailing from the vibrant city of Chennai, India.
 
-System Engineer at [Infosys](https://www.infosys.com/)<br>
+Senior System Engineer at [Infosys](https://www.infosys.com/)<br>
 
 - 🧑‍💻 I work mostly on TypeScript, JavaScript, HTML & CSS.
 - 🚀 I also work on React, NextJS and TailwindCSS.
